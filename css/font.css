@@ -1,0 +1,19 @@
+@font-face {
+font-family: 'TT Norms Pro Regular';
+font-style: normal;
+font-weight: normal;
+src: local('TT Norms Pro Regular'), url('../font/TT Norms Pro Regular.woff') format('woff');
+}
+@font-face {
+font-family: 'Averta Demo PE Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Averta Demo PE Regular'), url('../font/Averta Demo PE Regular 400.otf') format('woff');
+}
+
+@font-face {
+font-family: 'avenirltstd-light';
+font-style: normal;
+font-weight: normal;
+src: local('avenirltstd-light'), url('../font/avenirltstd-light.otf') format('woff');
+}
